@@ -1,99 +1,93 @@
 ---
-title: Home
+title: Appenin, L'assurance au bon endroit au bon moment
 sections:
   - section_id: hero
     component: HeroBlock
     type: heroblock
-    title: Hero Section
+    title: L'assurance au bon endroit au bon moment
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Appenin construit des solutions d’assurance habitation sur mesure pour vos clients particuliers.
     actions:
-      - label: Get Started
-        url: docs/index.html
+      - label: Découvrir
+        url: /
   - section_id: features
     component: FeaturesBlock
     type: featuresblock
     featureslist:
-      - title: Documentation
+      - title: Des contrats d'assurance adaptés à vos clients
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
-          - label: Get Started
-            url: docs/index.html
-      - title: Blog
+          - label: Exemples de contrats
+            url: /
+      - title: Un parcours de vente simple et rapide à intégrer
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         actions:
-          - label: View Posts
-            url: blog/index.html
-      - title: Style Guides
+          - label: Comment ça marche ?
+            url: /
+      - title: Une transformation et une satisfaction client optimales
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
-          - label: Learn More
-            url: /style-guide.html
+          - label: Témoignages
+            url: /
   - section_id: text-img
     component: ContentBlock
     type: contentblock
     image: images/10.jpg
-    title: A Section With An Image
+    title: Appenin, l'assurance 2.0
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Appenin propose un nouveau modèle de distribution 
+      d’assurance « grand public » en B2B2C, 
+      attractif pour les distributeurs, 
+      avec des produits simples, fiables et concurrentiels 
+      et une expérience d’achat et d’utilisation fluide pour les clients.
     actions:
-      - label: View Demo
-        url: /docs/getting-started/index.html
-      - label: Get Started
-        url: /docs/getting-started/index.html
+      - label: Découvrir
+        url: /
   - section_id: features-two-col
     component: FeaturesBlock
     type: featuresblock
-    title: Sample Layouts
-    subtitle: An optional subtitle of the section
+    title: Notre différence
     featureslist:
-      - title: Overview
+      - title: La réactivité et l'agilité d'une start-up
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+          Appenin est une société autonome. 
+          Cela lui permet de s’affranchir des contraintes 
+          des assureurs en place afin de réinventer 
+          des contrats d’assurance simples 
+          et proposer une intégration fluide 
+          dans les systèmes et parcours de ses partenaires.
         actions:
-          - label: Learn More
-            url: /overview.html
-      - title: Showcase
+          - label: En savoir plus
+            url: /
+      - title: La solidité et la fiabilité du leader
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Appenin fait partie du groupe Covéa,
+          premier assureur français des particuliers 
+          en assurance habitation et en assurance auto,
+          et bénficie de sa solidité financière
+          et de son expertise technique.
         actions:
-          - label: Learn More
-            url: /showcase.html
+          - label: En savoir plus
+            url: /
   - section_id: cta
     component: CtaBlock
     type: ctablock
-    title: The Title of The Call to Action Block
-    subtitle: This is an optional description for the call to action block.
+    title: Nous recrutons
+    subtitle: Venez construire le futur de l'assurance avec nous.
     actions:
-      - label: Get Started
-        url: /docs/getting-started/installation.html
+      - label: Voir les offres
+        url: /
   - section_id: text-no-img
     component: ContentBlock
     type: contentblock
-    title: A Section Without Image
+    title: Nous contacter
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Vous souhaitez proposer à vos clients une offre d’assurance ?<br>
+      Notre équipe se tient à votre disposition 
     actions:
-      - label: Get Started
-        url: /docs/getting-started/installation.html
+      - label: Nous écrire
+        url: /
 menus:
   main:
     weight: 1
