@@ -11,9 +11,5 @@ sections:
     actions:
       - label: Get Started
         url: /docs/getting-started/index.html
-menus:
-  layouts:
-    weight: 1
-    title: Overview
 template: overview
 ---
