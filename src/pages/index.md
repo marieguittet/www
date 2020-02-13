@@ -34,7 +34,7 @@ sections:
     component: ContentBlock
     type: contentblock
     image: images/10.jpg
-    title: Appenin, l'assurance 2.0
+    title: Appenin, l'assurance réinventée
     content: >-
       Appenin propose un nouveau modèle de distribution 
       d’assurance « grand public » en B2B2C, 
