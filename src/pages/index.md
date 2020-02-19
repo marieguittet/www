@@ -9,27 +9,23 @@ sections:
     content: >-
       Appenin construit des solutions d’assurance habitation sur mesure pour vos clients particuliers.
     actions:
-      - label: Découvrir
-        url: /
   - section_id: features
     component: FeaturesBlock
     type: featuresblock
     featureslist:
       - title: Des contrats d'assurance adaptés à vos clients
         content: >-
-        actions:
-          - label: Exemples de contrats
-            url: /
+          Appenin construit avec vous des produits d'assurance
+          sur mesure pour répondre aux attentes spécifiques 
+          de votre clientèle
       - title: Un parcours de vente simple et rapide à intégrer
         content: >-
-        actions:
-          - label: Comment ça marche ?
-            url: /
-      - title: Une transformation et une satisfaction client optimales
+          Appenin fait levier sur les informations dont vous disposez 
+          pour offrir un parcours de vente fluide et sans couture
+      - title: Une rentabilité améliorée de votre portefeuille
         content: >-
-        actions:
-          - label: Témoignages
-            url: /
+          Appenin vous offre des revenus récurrents supplémentaires, 
+          et vous aide à fidéliser vos clients
   - section_id: text-img
     component: ContentBlock
     type: contentblock
@@ -41,9 +37,6 @@ sections:
       attractif pour les distributeurs, 
       avec des produits simples, fiables et concurrentiels 
       et une expérience d’achat et d’utilisation fluide pour les clients.
-    actions:
-      - label: Découvrir
-        url: /
   - section_id: features-two-col
     component: FeaturesBlock
     type: featuresblock
@@ -57,19 +50,13 @@ sections:
           des contrats d’assurance simples 
           et proposer une intégration fluide 
           dans les systèmes et parcours de ses partenaires.
-        actions:
-          - label: En savoir plus
-            url: /
       - title: La solidité et la fiabilité du leader
         content: >-
           Appenin fait partie du groupe Covéa,
           premier assureur français des particuliers 
           en assurance habitation et en assurance auto,
-          et bénficie de sa solidité financière
+          et bénéficie de sa solidité financière
           et de son expertise technique.
-        actions:
-          - label: En savoir plus
-            url: /
   - section_id: cta
     component: CtaBlock
     type: ctablock
@@ -77,7 +64,7 @@ sections:
     subtitle: Venez construire le futur de l'assurance avec nous.
     actions:
       - label: Voir les offres
-        url: /
+        url: /recrutement/
   - section_id: text-no-img
     component: ContentBlock
     type: contentblock
@@ -87,7 +74,7 @@ sections:
       Notre équipe se tient à votre disposition 
     actions:
       - label: Nous écrire
-        url: /
+        mailto: hello@appenin.fr
 menus:
   main:
     weight: 1

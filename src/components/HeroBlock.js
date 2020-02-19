@@ -6,7 +6,7 @@ import {toStyleObj, safePrefix, markdownify, Link} from '../utils';
 export default class HeroBlock extends React.Component {
     render() {
         return (
-            <section id={_.get(this.props, 'section.section_id')} className="block hero-block bg-gradient outer">
+            <section id={_.get(this.props, 'section.section_id')} className="block hero-block outer">
               {_.get(this.props, 'section.image') && 
               <div className="bg-img" style={toStyleObj('background-image: url(\'' + safePrefix(_.get(this.props, 'section.image')) + '\')')}/>
               }
