@@ -71,13 +71,11 @@ sections:
     title: Nous contacter
     content: >-
       Vous souhaitez proposer à vos clients une offre d’assurance ?<br>
-      Notre équipe se tient à votre disposition 
-    actions:
-      - label: Nous écrire
-        mailto: hello@appenin.fr
+      Notre équipe se tient à votre disposition.<br>
+      Vous pouvez nous écrire à <a href="mailto:hello@appeinn.fr">hello@appenin.fr</a>.
 menus:
   main:
     weight: 1
-    title: Home
+    title: Accueil
 template: home
 ---
