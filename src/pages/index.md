@@ -7,7 +7,8 @@ sections:
     title: L'assurance au bon endroit au bon moment
     image: images/5.jpg
     content: >-
-      Appenin construit des solutions d’assurance habitation sur mesure pour vos clients particuliers.
+      Appenin construit des solutions d’assurance habitation
+      intégrées dans vos parcours pour vos clients particuliers.
     actions:
   - section_id: features
     component: FeaturesBlock
@@ -33,10 +34,10 @@ sections:
     title: Appenin, l'assurance réinventée
     content: >-
       Appenin propose un nouveau modèle de distribution 
-      d’assurance « grand public » en B2B2C, 
-      attractif pour les distributeurs, 
-      avec des produits simples, fiables et concurrentiels 
-      et une expérience d’achat et d’utilisation fluide pour les clients.
+      d’assurance « grand public » en B2B2C : 
+      <ul><li>attractif pour les distributeurs,
+      <li>avec des produits simples, fiables et concurrentiels,
+      <li>et une expérience d’achat et d’utilisation fluide pour les clients.</ul>
   - section_id: features-two-col
     component: FeaturesBlock
     type: featuresblock
@@ -48,23 +49,15 @@ sections:
           Cela lui permet de s’affranchir des contraintes 
           des assureurs en place afin de réinventer 
           des contrats d’assurance simples 
-          et proposer une intégration fluide 
+          et proposer une intégration fluide, rapide et sans efforts 
           dans les systèmes et parcours de ses partenaires.
       - title: La solidité et la fiabilité du leader
         content: >-
-          Appenin fait partie du groupe Covéa,
+          Appenin fait partie du groupe Covéa (MAAF-MMA-GMF),
           premier assureur français des particuliers 
           en assurance habitation et en assurance auto,
           et bénéficie de sa solidité financière
           et de son expertise technique.
-  - section_id: cta
-    component: CtaBlock
-    type: ctablock
-    title: Nous recrutons
-    subtitle: Venez construire le futur de l'assurance avec nous.
-    actions:
-      - label: Voir les offres
-        url: /recrutement/
   - section_id: text-no-img
     component: ContentBlock
     type: contentblock
@@ -73,6 +66,14 @@ sections:
       Vous souhaitez proposer à vos clients une offre d’assurance ?<br>
       Notre équipe se tient à votre disposition.<br>
       Vous pouvez nous écrire à <a href="mailto:hello@appeinn.fr">hello@appenin.fr</a>.
+  - section_id: cta
+    component: CtaBlock
+    type: ctablock
+    title: Nous recrutons
+    subtitle: Venez construire le futur de l'assurance avec nous.
+    actions:
+      - label: Voir les offres
+        url: /recrutement/
 menus:
   main:
     weight: 1
