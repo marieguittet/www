@@ -17,16 +17,16 @@ sections:
       - title: Des contrats d'assurance adaptés à vos clients
         content: >-
           Appenin construit avec vous des produits d'assurance
-          sur mesure pour répondre aux attentes spécifiques 
-          de votre clientèle
+          sur mesure pour répondre aux besoins spécifiques
+          de votre clientèle.
       - title: Un parcours de vente simple et rapide à intégrer
         content: >-
-          Appenin fait levier sur les informations dont vous disposez 
-          pour offrir un parcours de vente fluide et sans couture
+          Appenin fait levier sur les informations dont vous disposez
+          pour offrir un parcours de vente fluide et sans couture.
       - title: Une rentabilité améliorée de votre portefeuille
         content: >-
-          Appenin vous offre des revenus récurrents supplémentaires, 
-          et vous aide à fidéliser vos clients
+          Grâce à Appenin, bénéficiez sans effort
+          de revenus récurrents supplémentaires et fidélisez vos clients.
   - section_id: text-img
     component: ContentBlock
     type: contentblock
@@ -34,7 +34,7 @@ sections:
     title: Appenin, l'assurance réinventée
     content: >-
       Appenin propose un nouveau modèle de distribution 
-      d’assurance « grand public » en B2B2C : 
+      d’assurance « grand public » en B2B2C :
       <ul><li>attractif pour les distributeurs,
       <li>avec des produits simples, fiables et concurrentiels,
       <li>et une expérience d’achat et d’utilisation fluide pour les clients.</ul>
@@ -45,15 +45,15 @@ sections:
     featureslist:
       - title: La réactivité et l'agilité d'une start-up
         content: >-
-          Appenin est une société autonome. 
-          Cela lui permet de s’affranchir des contraintes 
-          des assureurs en place afin de réinventer 
-          des contrats d’assurance simples 
+          Appenin est une société autonome ;
+          elle n'est pas soumise aux contraintes des assureurs en place.
+          Elle a donc toute latitude pour réinventer
+          des contrats d’assurance simples
           et proposer une intégration fluide, rapide et sans efforts 
           dans les systèmes et parcours de ses partenaires.
       - title: La solidité et la fiabilité du leader
         content: >-
-          Appenin fait partie du groupe Covéa (MAAF-MMA-GMF),
+          Appenin est une société du groupe Covéa (MAAF-MMA-GMF),
           premier assureur français des particuliers 
           en assurance habitation et en assurance auto,
           et bénéficie de sa solidité financière
