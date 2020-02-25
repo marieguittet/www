@@ -11,7 +11,7 @@ template: page
 
 ## L'Entreprise
 
-Appenin est une jeune startup InsurTech, créée et financée en 2019, pour développer l’Assurance de demain.
+Appenin est une jeune startup InsurTech, créée et financée fin 2019, pour développer l’Assurance de demain.
 
 <b>Notre projet</b> : Concevoir des solutions et des expériences d’assurance grand public intégrables dans des offres distribuées par des partenaires, sur un modèle B2B2C.
 
