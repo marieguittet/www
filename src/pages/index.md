@@ -7,8 +7,8 @@ sections:
     title: L'assurance au bon endroit au bon moment
     image: images/5.jpg
     content: >-
-      Appenin construit des solutions d’assurance habitation
-      intégrées dans vos parcours pour vos clients particuliers.
+      Enrichissez votre offre avec la meilleure
+      solution d'assurance pour vos clients
     actions:
   - section_id: features
     component: FeaturesBlock
@@ -16,7 +16,7 @@ sections:
     featureslist:
       - title: Des contrats d'assurance adaptés à vos clients
         content: >-
-          Appenin construit avec vous des produits d'assurance
+          Appenin construit des produits d'assurance
           sur mesure pour répondre aux besoins spécifiques
           de votre clientèle.
       - title: Un parcours de vente simple et rapide à intégrer
@@ -49,7 +49,7 @@ sections:
           elle n'est pas soumise aux contraintes des assureurs en place.
           Elle a donc toute latitude pour réinventer
           des contrats d’assurance simples
-          et proposer une intégration fluide, rapide et sans efforts 
+          et proposer une intégration fluide, rapide et sans effort
           dans les systèmes et parcours de ses partenaires.
       - title: La solidité et la fiabilité du leader
         content: >-
