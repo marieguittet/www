@@ -8,7 +8,7 @@ sections:
     image: images/5.jpg
     content: >-
       Enrichissez votre offre avec la meilleure
-      solution d'assurance pour vos clients
+      solution d'assurance habitation pour vos clients
     actions:
   - section_id: features
     component: FeaturesBlock
