@@ -1,12 +1,10 @@
 ---
-title: Titre de ma page
+title: J’ai subi un sinistre !
 img_path: images/5.jpg
 menus:
 template: page
 ---
 
-
-# J’ai subi un sinistre !
 
 ### <b>Mes deux priorités : </b>
 1. vous assurer que la situation n’empire pas (un robinet qui fuit ? mettez une casserole dessous)
