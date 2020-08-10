@@ -17,7 +17,7 @@ Appenin est une jeune startup InsurTech, créée et financée fin 2019, pour dé
 
 ## L’Équipe
 
-Nous sommes aujourd’hui 4 personnes : Nolwenn, Arnaud, Sylvestre et Vincent. Nos bureaux sont à Paris, dans le Sentier, mais nous travaillons ponctuellement d’un peu partout.
+Nous sommes aujourd’hui 5 personnes : Nolwenn, Amine, Arnaud, Sylvestre et Vincent. Nos bureaux sont à Paris, dans le Sentier, mais nous travaillons ponctuellement d’un peu partout.
 
 Nous sommes des collaborateurs expérimentés et complémentaires. Nous sommes bienveillants, et accordons rapidement notre confiance. Nous avons à cœur d’apprendre sans cesse et de contribuer activement au développement des personnes qui nous rejoindront dans l’aventure.
 
