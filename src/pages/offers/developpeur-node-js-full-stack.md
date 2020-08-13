@@ -18,7 +18,7 @@ mais nous travaillons ponctuellement d’un peu partout. Si nous communiquons pr
 français, il nous arrive aussi de manier l’anglais lorsque nous collaborons avec des clients ou 
 fournisseurs étrangers.
 
-Bien que nos styles de vie et nos centres d’intérêt différents au sein 
+Bien que nos styles de vie et nos centres d’intérêt diffèrents au sein 
 de l’équipe, nous sommes unis par des objectifs communs : mettre la technologie au service 
 de l’intérêt général, moderniser la distribution d'assurance par le numérique, exposer 
 simplement des choses compliquées, toujours penser à l’accessibilité, continuer à apprendre 
@@ -36,7 +36,7 @@ Le premier produit que nous développons est FALCO, une plateforme ouverte de di
 d'assurance multi-risques habitation par API. 
 
 Sa première utilisation a été inaugurée à l'été 2020 pour permettre aux locataires 
-d'un réseau de résidences étudiantes [s'assurer en quelques minutes]((https://assurance.appenin.fr/studyo/).
+d'un réseau de résidences étudiantes de [s'assurer en quelques minutes](https://assurance.appenin.fr/studyo/).
 
 
 ## L'environnement de travail
