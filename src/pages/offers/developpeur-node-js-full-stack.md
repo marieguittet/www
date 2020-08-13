@@ -18,19 +18,19 @@ mais nous travaillons ponctuellement d’un peu partout. Si nous communiquons pr
 français, il nous arrive aussi de manier l’anglais lorsque nous collaborons avec des clients ou 
 fournisseurs étrangers.
 
-Bien que nos styles de vie et nos centres d’intérêt diffèrents au sein 
+Nous sommes des généralistes relativement indépendants, des collaborateurs bienveillants, 
+des collègues qui accordent rapidement leur confiance. 
+Bien que nos styles de vie et nos centres d’intérêt diffèrent au sein 
 de l’équipe, nous sommes unis par des objectifs communs : mettre la technologie au service 
 de l’intérêt général, moderniser la distribution d'assurance par le numérique, exposer 
 simplement des choses compliquées, toujours penser à l’accessibilité, continuer à apprendre 
 dans nos métiers, partager ce que nous savons avec les communautés qui nous entourent.
 
-Nous sommes des généralistes relativement indépendants, des collaborateurs bienveillants, 
-des collègues qui accordent rapidement leur confiance. Nous sommes aussi nos premiers 
-utilisateurs, et, à ce titre, nous nous fixons des exigences élevées. Par notre travail, 
-nous cherchons à montrer que dans la distribution d'assurance aussi, il est possible de 
-faire des choses qui marchent, des choses simples et faciles à utiliser.
-
 ## Le produit
+
+Appenin c'est aussi chercher à montrer que même dans la distribution d'assurance, 
+il est possible de faire des choses qui marchent, des choses simples et faciles à utiliser 
+tout en se fixant des exigences élevées.
 
 Le premier produit que nous développons est FALCO, une plateforme ouverte de distribution 
 d'assurance multi-risques habitation par API. 
@@ -43,13 +43,14 @@ d'un réseau de résidences étudiantes d' [assurer leur logement en quelques mi
 
 Autonomie et agilité sont les deux mots d'ordre d'appenin. Vous aurez peu de réunions, 
 vous recevrez peu d’e-mails, et personne ne vous dérangera pendant vos week-end ou vos 
-vacances. Nous croyons au travail en petites équipes assez indépendantes et 
+vacances. Nous croyons au travail en petites équipes et 
 [nous traitons nos collègues comme des adultes responsables](https://appenin.github.io/appenin/charte.html).
 
 Nous pensons que les personnes les mieux placées pour prendre des décisions sur nos produits 
-sont celles et ceux qui les développent. Nous nous efforçons de pratiquer ce que nous prêchons 
-et de mettre régulièrement à jour notre façon de travailler comme nous mettons à jour nos outils.
-
+sont celles et ceux qui les développent. Nous sommes toujours à la recherche d'outils et méthodes 
+plus innovants pouvant nous aider à améliorer notre travail au quotidien. C'est pourquoi nous serons 
+toujours à l'écoute de ce que vous aurez à nous proposer à ce sujet. 
+ 
 ## Votre profil
 
 Par autonomie et agilité, nous entendons essentiellement d'être capable de se gérer dans le travail 
@@ -60,13 +61,13 @@ Nous serions très contents d’entendre parler de vous si :
 
 * Vous avez plusieurs années d'expérience en **JavaScript** notamment en **Node.js**
 * La liste de vos frameworks préférés contient Hapi ainsi que Next
-* Vous êtes à l'aise avec les pratiques et rituels des équipes agiles
+* Vous êtes à l'aise avec les **pratiques et rituels des équipes agiles**
 * Vous vous intéressez aux pratiques de contribution en vigueur dans le monde du logiciel 
 libre : *pull-requests*, *code reviews*, etc.
-* Vous savez gérer vos projets de A à Z, sans qu’on passe derrière vous
+* Vous savez gérer vos **projets de A à Z**
 * Vous aimez les modes de communication asynchrones
 * Vous utilisez souvent la phrase « Le mieux est l’ennemi du bien. »
-* Vous maitrisez le français et l’anglais dans un contexte professionnel
+* Vous maitrisez **le français et l’anglais dans un contexte professionnel**
 * Les petits plus que nous saurons apprécier : vous contribuez à des projets open source,
 vous avez quelques lumières en intégration continue, vous vous intéressez au design des produits,
 et vous savez qu’on dit *numérique* et pas *digital*
@@ -94,7 +95,7 @@ connaissez pas. En attendant, vous pouvez jeter un œil à notre [livret de bien
 
 ### Comment postuler
 
-Pour nous envoyer votre candidature, écrivez-nous à candidatures@appenin.fr et parlez-nous de ce qui 
+Pour nous envoyer votre candidature, écrivez-nous à **candidatures@appenin.fr** et parlez-nous de ce qui 
 vous donne envie de nous rejoindre. Écrivez avec vos mots à vous — l’emploi de jargon à la mode ne 
 rapporte pas de points supplémentaires. N'hésitez pas à ajouter un lien vers votre compte GitHub, 
 Linkedin, ou Twitter, si vous en possédez.
