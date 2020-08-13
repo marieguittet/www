@@ -1,5 +1,5 @@
 ---
-title: Développeur Node.js full-stack
+title: Dev Node.js full-stack
 subtitle: Venez construire le futur de l'assurance avec nous
 img_path: images/5.jpg
 menus:
@@ -12,13 +12,13 @@ ouverte d'assurance : nous ouvrons trois postes de développeuse ou développeur
 
 ## L’équipe
 
-Nous sommes une équipe de 8 personnes : Amine, Arnaud, Isabelle, Léa, Marie, Nolwenn, 
-Sylvestre et Vincent. Nos bureaux sont à Paris, dans le Sentier, mais nous travaillons 
-ponctuellement d’un peu partout. Si nous communiquons principalement en français, il 
-nous arrive aussi de manier l’anglais lorsque nous collaborons avec des clients ou 
+Nous sommes actuellement 8 personnes dans notre open-space parisien : Amine, Arnaud, Isabelle, 
+Léa, Marie, Nolwenn, Sylvestre et Vincent. Nos bureaux sont idéalement situés dans le Sentier, 
+mais nous travaillons ponctuellement d’un peu partout. Si nous communiquons principalement en 
+français, il nous arrive aussi de manier l’anglais lorsque nous collaborons avec des clients ou 
 fournisseurs étrangers.
 
-Bien que nous ayons tous des styles de vie et des centres d’intérêt différents au sein 
+Bien que nos styles de vie et nos centres d’intérêt différents au sein 
 de l’équipe, nous sommes unis par des objectifs communs : mettre la technologie au service 
 de l’intérêt général, moderniser la distribution d'assurance par le numérique, exposer 
 simplement des choses compliquées, toujours penser à l’accessibilité, continuer à apprendre 
@@ -32,16 +32,18 @@ faire des choses qui marchent, des choses simples et faciles à utiliser.
 
 ## Le produit
 
-Le premier produit que nous développons est habitation.appenin.fr.
+Le premier produit que nous développons est FALCO, une plateforme ouverte de distribution 
+d'assurance multi-risques habitation par API. 
 
-Il s’agit d'une plateforme ouverte de distribution d'assurance multi-risques habitation par API.
+Sa première utilisation a été inaugurée à l'été 2020 pour permettre aux locataires 
+d'un réseau de résidences étudiantes [s'assurer en quelques minutes]((https://assurance.appenin.fr/studyo/).
 
-## Comment nous travaillons
 
-Nous optimisons notre façon de travailler pour privilégier le calme, la concentration, 
-et la réflexion. Vous aurez peu de réunions, vous recevrez peu d’e-mails, et personne 
-ne vous dérangera pendant vos week-end ou vos vacances. Nous croyons au travail en petites 
-équipes assez indépendantes et 
+## L'environnement de travail
+
+Autonomie et agilité sont les deux mots d'ordre d'appenin. Vous aurez peu de réunions, 
+vous recevrez peu d’e-mails, et personne ne vous dérangera pendant vos week-end ou vos 
+vacances. Nous croyons au travail en petites équipes assez indépendantes et 
 [nous traitons nos collègues comme des adultes responsables](https://appenin.github.io/appenin/charte.html).
 
 Nous pensons que les personnes les mieux placées pour prendre des décisions sur nos produits 
@@ -50,56 +52,50 @@ et de mettre régulièrement à jour notre façon de travailler comme nous metto
 
 ## Votre profil
 
-Dans les grandes lignes, les personnes autonomes se plaisent bien chez appenin. Une personne 
-autonome est capable de se gérer dans le travail : elle définit ses propres objectifs et trace 
-la voie qui permet de les atteindre. Si vous n’avez pas besoin d’une supervision constante pour 
-avancer sur ce que vous avez prévu de faire, vous allez être à votre aise ici.
+Par autonomie et agilité, nous entendons essentiellement d'être capable de se gérer dans le travail 
+et donc de définir ses propres objectifs et tracer la voie qui permet de les atteindre. Si vous 
+n’avez pas besoin d’une supervision constante pour avancer sur ce que vous avez prévu de faire, 
+vous allez être à votre aise ici.
 
 Nous serions très contents d’entendre parler de vous si :
 
-* Vous êtes à l’aise en JavaScript (beaucoup) et Python (au moins un peu)
+* Vous avez plusieurs années d'expérience en JavaScript notamment en Node.js
 * La liste de vos frameworks préférés contient Hapi ainsi que Next
-* Vous vous intéressez aux pratiques de contribution en vigueur dans le monde du logiciel libre : pull-requests, code reviews, etc.
+* vous êtes à l'aise avec les pratiques et rituels des équipes agiles
+* Vous vous intéressez aux pratiques de contribution en vigueur dans le monde du logiciel 
+libre : *pull-requests*, *code reviews*, etc.
 * Vous savez gérer vos projets de A à Z, sans qu’on passe derrière vous
 * Vous aimez les modes de communication asynchrones
 * Vous utilisez souvent la phrase « Le mieux est l’ennemi du bien. »
 * Vous maitrisez le français et l’anglais dans un contexte professionnel
+* Les petis plus que nous saurons apprécier : vous contribuez à des projets open source,
+vous avez quelques lumières en intégration continue, vous vous intéressez au design des produits,
+et vous savez qu’on dit *numérique* et pas *digital*
 
-
-Ce que vous ferez
-* Vous participerez au développement de habitation.appenin.fr
+Votre rôle au sein de l'équipe :
+* Vous participerez au développement de FALCO, notre plateforme ouverte de distribution 
+d'assurance
 * Vous contribuerez aux différents outils « satellites » que nous utilisons et mettons à disposition de la communauté
 * Vous traduirez la vision produit en fonctionnalités concrètes à mettre entre les mains des utilisateurs
 * Vous travaillerez avec les actuaires et data-scientists qui établissent la tarification du produit
 
 
-Vous marquerez des points si
+### Détails pratiques
 
-* Vous contribuez à des projets open source
-* Vous avez quelques lumières en intégration continue
-* Vous vous intéressez au design des produits
-* Vous savez qu’on dit numérique et pas digital
-
-
-### Détails techniques
-
-* Contrat. — Nous ouvrons trois postes en contrat à durée indéterminée
-* Rémunération. — Votre salaire sera déterminé par votre diplôme, si vous sortez de l’école ; ou 
-votre salaire précédent si vous êtes déjà en poste. Nous essayons d'aligner nos rémunérations sur 
+* **Contrat**. — Contrat à durée indéterminée
+* **Rémunération**. — Elle sera déterminée en fonction de votre précédent salaire. Nous alignons nos rémunérations sur 
 les standards du marché.
-* Travail à distance. — Le travail à distance est possible, ponctuellement, sans qu’un préavis ou 
+* **Travail à distance**. — Le travail à distance est possible, ponctuellement, sans qu’un préavis ou 
 une validation ne soient nécessaires — soyez simplement raisonnable. Pour que vous puissiez contribuer 
 à nos rituels et discuter avec les autres équipes d’appenin, nous avons néanmoins besoin de pouvoir 
 vous croiser trois à quatre jours par semaine dans nos bureaux parisiens.
-* Date de début. — Le plus tôt possible. Nous vous formerons sur nos outils si vous ne les 
+* **Intégration**. — Le plus tôt possible. Nous vous formerons sur nos outils si vous ne les 
 connaissez pas. En attendant, vous pouvez jeter un œil à notre [livret de bienvenue](https://appenin.github.io/appenin/).
 
 
 ### Comment envoyer une candidature
 
-Pour nous envoyer votre candidature, écrivez-nous à candidatures@appenin.fr. Parlez-nous de ce qui 
+Pour nous envoyer votre candidature, écrivez-nous à candidatures@appenin.fr et parlez-nous de ce qui 
 vous donne envie de nous rejoindre. Écrivez avec vos mots à vous — l’emploi de jargon à la mode ne 
-rapporte pas de points supplémentaires. N'hésitez pas à ajoutez un lien vers votre compte GitHub, 
+rapporte pas de points supplémentaires. N'hésitez pas à ajouter un lien vers votre compte GitHub, 
 Linkedin, ou Twitter, si vous en possédez.
-
-Nous avons hâte de vous lire.
