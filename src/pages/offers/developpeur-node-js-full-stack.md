@@ -92,7 +92,7 @@ vous croiser trois à quatre jours par semaine dans nos bureaux parisiens.
 connaissez pas. En attendant, vous pouvez jeter un œil à notre [livret de bienvenue](https://appenin.github.io/appenin/).
 
 
-### Comment envoyer une candidature
+### Comment postuler
 
 Pour nous envoyer votre candidature, écrivez-nous à candidatures@appenin.fr et parlez-nous de ce qui 
 vous donne envie de nous rejoindre. Écrivez avec vos mots à vous — l’emploi de jargon à la mode ne 
