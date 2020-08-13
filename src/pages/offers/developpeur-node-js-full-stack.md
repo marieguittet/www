@@ -36,7 +36,7 @@ Le premier produit que nous développons est FALCO, une plateforme ouverte de di
 d'assurance multi-risques habitation par API. 
 
 Sa première utilisation a été inaugurée à l'été 2020 pour permettre aux locataires 
-d'un réseau de résidences étudiantes de [s'assurer en quelques minutes](https://assurance.appenin.fr/studyo/).
+d'un réseau de résidences étudiantes d' [assurer leur logement en quelques minutes](https://assurance.appenin.fr/studyo/).
 
 
 ## L'environnement de travail
@@ -53,22 +53,21 @@ et de mettre régulièrement à jour notre façon de travailler comme nous metto
 ## Votre profil
 
 Par autonomie et agilité, nous entendons essentiellement d'être capable de se gérer dans le travail 
-et donc de définir ses propres objectifs et tracer la voie qui permet de les atteindre. Si vous 
-n’avez pas besoin d’une supervision constante pour avancer sur ce que vous avez prévu de faire, 
-vous allez être à votre aise ici.
+et donc de **définir ses propres objectifs et tracer la voie qui permet de les atteindre**. Mais si 
+vous avez besoin d’un avis ou d’un appui, il y aura toujours quelqu’un pour vous répondre.
 
 Nous serions très contents d’entendre parler de vous si :
 
-* Vous avez plusieurs années d'expérience en JavaScript notamment en Node.js
+* Vous avez plusieurs années d'expérience en **JavaScript** notamment en **Node.js**
 * La liste de vos frameworks préférés contient Hapi ainsi que Next
-* vous êtes à l'aise avec les pratiques et rituels des équipes agiles
+* Vous êtes à l'aise avec les pratiques et rituels des équipes agiles
 * Vous vous intéressez aux pratiques de contribution en vigueur dans le monde du logiciel 
 libre : *pull-requests*, *code reviews*, etc.
 * Vous savez gérer vos projets de A à Z, sans qu’on passe derrière vous
 * Vous aimez les modes de communication asynchrones
 * Vous utilisez souvent la phrase « Le mieux est l’ennemi du bien. »
 * Vous maitrisez le français et l’anglais dans un contexte professionnel
-* Les petis plus que nous saurons apprécier : vous contribuez à des projets open source,
+* Les petits plus que nous saurons apprécier : vous contribuez à des projets open source,
 vous avez quelques lumières en intégration continue, vous vous intéressez au design des produits,
 et vous savez qu’on dit *numérique* et pas *digital*
 
