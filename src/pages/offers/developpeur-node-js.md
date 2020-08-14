@@ -36,7 +36,7 @@ Le premier produit que nous développons est FALCO, une plateforme ouverte de di
 d'assurance multi-risques habitation par API. 
 
 Sa première utilisation a été inaugurée à l'été 2020 pour permettre aux locataires 
-d'un réseau de résidences étudiantes d' [assurer leur logement en quelques minutes](https://assurance.appenin.fr/studyo/).
+d'un réseau de résidences étudiantes d'[assurer leur logement en quelques minutes](https://assurance.appenin.fr/studyo/).
 
 
 ## L'environnement de travail
