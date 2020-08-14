@@ -28,7 +28,7 @@ dans nos métiers, partager ce que nous savons avec les communautés qui nous en
 
 ## Le produit
 
-Appenin c'est aussi chercher à montrer que même dans la distribution d'assurance, 
+Chez appenin nous tenons à prouver que que même dans la distribution d'assurance, 
 il est possible de faire des choses qui marchent, des choses simples et faciles à utiliser 
 tout en se fixant des exigences élevées.
 
@@ -36,7 +36,7 @@ Le premier produit que nous développons est FALCO, une plateforme ouverte de di
 d'assurance multi-risques habitation par API. 
 
 Sa première utilisation a été inaugurée à l'été 2020 pour permettre aux locataires 
-d'un réseau de résidences étudiantes d' [assurer leur logement en quelques minutes](https://assurance.appenin.fr/studyo/).
+d'un réseau de résidences étudiantes d'[assurer leur logement en quelques minutes](https://assurance.appenin.fr/studyo/).
 
 
 ## L'environnement de travail
