@@ -47,9 +47,8 @@ vacances. Nous croyons au travail en petites équipes et
 [nous traitons nos collègues comme des adultes responsables](https://appenin.github.io/appenin/charte.html).
 
 Nous pensons que les personnes les mieux placées pour prendre des décisions sur nos produits 
-sont celles et ceux qui les développent. Nous sommes toujours à la recherche d'outils et méthodes 
-plus innovants pouvant nous aider à améliorer notre travail au quotidien. 
-C'est pourquoi nous serons toujours à l'écoute de ce que tu auras à nous proposer à ce sujet.
+sont celles et ceux qui les développent. Nous nous efforçons de pratiquer ce que nous prêchons
+et de mettre régulièrement à jour notre façon de travailler comme nous mettons à jour nos outils.
 
 ## Ton profil
 
