@@ -31,29 +31,27 @@ continuer à apprendre dans nos métiers, partager ce que nous savons avec les c
 
 ## Nos valeurs 
 
-* L’exigence au service de la simplicité : la satisfaction client/utilisateur est pour nous une priorité. Nous tenons à garantir une expérience utilisateur fluide ainsi
+L’exigence au service de la simplicité : la satisfaction client/utilisateur est pour nous une priorité. Nous tenons à garantir une expérience utilisateur fluide ainsi
 qu'un produit de confiance pour nos clients. Il est donc important pour nous de proposer des produits simples à comprendre, simples à vendre et simples à utiliser. 
 
-* Accessibilité et flexibilité : notre objectif est de vulgariser un modèle de distribution d’assurances destiné au “grand public” et d'offrir des solutions adaptées au
+Accessibilité et flexibilité : notre objectif est de vulgariser un modèle de distribution d’assurances destiné au “grand public” et d'offrir des solutions adaptées au
 besoin du client et des utilisateurs. 
 
-* La confiance envers et contre tout : il nous tient à coeur de bâtir des partenariats durables reposant sur des relations de confiance avec nos clients 
+La confiance dans la transparence : il nous tient à coeur de bâtir des partenariats durables reposant sur des relations de confiance avec nos clients 
 mais aussi avec nos collaborateurs pour construire ensemble un produit de qualité. Cette ambition se traduit notamment par l’empathie dont nous faisons preuve envers nos
 partenaires, nos assurés et nos équipes au quotidien. 
-
-* Un partage en toute transparence : nous exigeons la franchise la plus totale lorsqu'il s'agit de partager des informations avec nos interlocuteurs. 
-Avec nos collaborateurs nous prônons une communication bienveillante où chacun a le droit de s'exprimer librement; l'idée étant de ne rien laisser sous le tapis.
 
 
 ## Nos petits plus 
 
-* Une jeune start-up solide financièrement :  appenin a toute autonomie et latitude pour réinventer des contrats d’assurance simples et proposer une intégration fluide,
-rapide et sans effort dans les systèmes et parcours de ses partenaires. Etant une société du groupe Covéa (MAAF-MMA-GMF),appenin bénéficie aussi de la solidité
+Une jeune start-up solide financièrement : appenin a toute autonomie et latitude pour réinventer des contrats d’assurance simples et proposer une intégration fluide,
+rapide et sans effort dans les systèmes et parcours de ses partenaires. Etant une société du groupe Covéa (MAAF-MMA-GMF), appenin bénéficie aussi de la solidité
 financière et de l'expertise technique du groupe. 
 
-* Une aventure enrichissante : appenin est un bon terrain de jeu où vous pourrez faire vos preuves techniquement et booster votre confiance en soi. Nous sommes à la recherche de talents motivés et motivants pour construire de bout en bout le futur de l'assurance avec nous. 
+Une expérience stimulante et valorisante : appenin est un bon terrain de jeu où vous pourrez faire vos preuves techniquement et booster votre confiance en soi. Nous sommes à la recherche de talents motivés et motivants pour construire de bout en bout le futur de l'assurance avec nous. 
 
-* Une entreprise qui vous veut du bien : comme vous aurez l'occasion de le lire dans nos offres d'emploi, notre travail en équipe est régi par des règles de vie bienveillantes grâce auxquelles vous trouverez facilement un équilibre entre vos vies professionnelle et personnelle.
+Une entreprise qui vous veut du bien : comme vous aurez l'occasion de le lire dans nos offres d'emploi, notre travail en équipe est régi par des [règles de vie
+bienveillantes](https://appenin.github.io/appenin/charte.html) grâce auxquelles vous trouverez facilement un équilibre entre vos vies professionnelle et personnelle.
 
 
 ## Nos offres 
