@@ -1,5 +1,5 @@
 ---
-title: Dev Node.js 
+title: Dev Node.js junior
 subtitle: Venez construire le futur de l'assurance avec nous
 img_path: images/5.jpg
 menus:
