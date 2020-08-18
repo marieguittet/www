@@ -45,7 +45,7 @@ partenaires, nos assurés et nos équipes au quotidien.
 ## Nos petits plus 
 
 Une jeune start-up solide financièrement : appenin a toute autonomie et latitude pour réinventer des contrats d’assurance simples et proposer une intégration fluide,
-rapide et sans effort dans les systèmes et parcours de ses partenaires. Etant une société du groupe Covéa (MAAF-MMA-GMF), appenin bénéficie aussi de la solidité
+rapide et sans effort dans les systèmes et parcours de ses partenaires. Étant une société du groupe Covéa (MAAF-MMA-GMF), appenin bénéficie aussi de la solidité
 financière et de l'expertise technique du groupe. 
 
 Une expérience stimulante et valorisante : appenin est un bon terrain de jeu où vous pourrez faire vos preuves techniquement et booster votre confiance en soi. Nous sommes à la recherche de talents motivés et motivants pour construire de bout en bout le futur de l'assurance avec nous. 
@@ -58,6 +58,12 @@ bienveillantes](https://appenin.github.io/appenin/charte.html) grâce auxquelles
 
 Les offres actuellement ouvertes sont les suivantes :
 
-<iframe src="https://careers.flatchr.io/company/appenin?iframe=true&btn_color=004e92&background_color=FFF" width="1000" height="220" style="border:0"></iframe>
+|   |   |
+| ------| ----- |
+| Lead developer Node.js  | <a href="/offers/lead-developer-node-js/" class="button">Voir l'offre</a>  |
+| Dev Node.js full-stack  | <a href="/offers/developpeur-node-js-full-stack/" class="button">Voir l'offre</a>  |
+| Dev Node.js junior | <a href="/offers/developpeur-node-js-junior/" class="button">Voir l'offre</a>  |
+| Senior Business Development Manager | <a href="https://careers.flatchr.io/vacancy/7brjv9mz0bpr5mng-senior-business-development-manager-cdi?btn_color=004e92" class="button">Voir l'offre</a> |
+| Assistant(e) direction / Office Manager | <a href="https://careers.flatchr.io/vacancy/zndrr9bv129yqqye-assistante-direction-office-manager?btn_color=004e92" class="button">Voir l'offre</a> |
 
 
