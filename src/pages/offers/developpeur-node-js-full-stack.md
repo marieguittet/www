@@ -59,7 +59,7 @@ vous avez besoin d’un avis ou d’un appui, il y aura toujours quelqu’un pou
 Nous serions très contents d’entendre parler de vous si :
 
 * Vous avez plusieurs années d'expérience en **JavaScript** notamment en **Node.js**
-* La liste de vos frameworks préférés contient Hapi ainsi que Next
+* La liste de vos frameworks préférés contient [Hapi](https://hapi.dev/) ainsi que [Next](https://nextjs.org/) 
 * Vous êtes à l'aise avec les **pratiques et rituels des équipes agiles**
 * Vous vous intéressez aux pratiques de contribution en vigueur dans le monde du logiciel 
 libre : *pull-requests*, *code reviews*, etc.
