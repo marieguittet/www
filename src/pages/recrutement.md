@@ -11,7 +11,7 @@ template: page
 
 ## L'entreprise
 
-Appenin est une jeune startup InsurTech, créée et financée fin 2019, pour développer l’Assurance de demain.
+Appenin est une jeune startup InsurTech, créée et financée fin 2019, pour développer l’assurance de demain.
 
 <b>Notre projet</b> : Concevoir des solutions et des expériences d’assurance grand public intégrables dans des offres distribuées par des partenaires, sur un modèle B2B2C.
 
@@ -44,11 +44,11 @@ partenaires, nos assurés et nos équipes au quotidien.
 
 ## Nos petits plus 
 
-Une jeune start-up solide financièrement : appenin a toute autonomie et latitude pour réinventer des contrats d’assurance simples et proposer une intégration fluide,
-rapide et sans effort dans les systèmes et parcours de ses partenaires. Étant une société du groupe Covéa (MAAF-MMA-GMF), appenin bénéficie aussi de la solidité
+Une jeune start-up solide financièrement : Appenin a toute autonomie et latitude pour réinventer des contrats d’assurance simples et proposer une intégration fluide,
+rapide et sans effort dans les systèmes et parcours de ses partenaires. Étant une société du groupe Covéa (MAAF-MMA-GMF), Appenin bénéficie aussi de la solidité
 financière et de l'expertise technique du groupe. 
 
-Une expérience stimulante et valorisante : appenin est un bon terrain de jeu où vous pourrez faire vos preuves techniquement et booster votre confiance en soi. Nous sommes à la recherche de talents motivés et motivants pour construire de bout en bout le futur de l'assurance avec nous. 
+Une expérience stimulante et valorisante : Appenin est un bon terrain de jeu où vous pourrez faire vos preuves techniquement et booster votre confiance en soi. Nous sommes à la recherche de talents motivés et motivants pour construire de bout en bout le futur de l'assurance avec nous. 
 
 Une entreprise qui vous veut du bien : comme vous aurez l'occasion de le lire dans nos offres d'emploi, notre travail en équipe est régi par des [règles de vie
 bienveillantes](https://appenin.github.io/appenin/charte.html) grâce auxquelles vous trouverez facilement un équilibre entre vos vies professionnelle et personnelle.
