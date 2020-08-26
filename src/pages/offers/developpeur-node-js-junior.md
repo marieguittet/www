@@ -59,7 +59,7 @@ tu as besoin d’un avis ou d’un appui, il y aura toujours quelqu’un pour te
 Nous serions très contents d’entendre parler de toi si :
 
 * Tu as une première expérience en **JavaScript** notamment en **Node.js**
-* La liste de tes frameworks préférés contient Hapi ainsi que Next
+* La liste de tes frameworks préférés contient [Hapi](https://hapi.dev/) ainsi que [Next](https://nextjs.org/)
 * Tu es à l'aise avec les **pratiques et rituels des équipes agiles**
 * Tu t'intéresses aux pratiques de contribution en vigueur dans le monde du logiciel 
 libre : *pull-requests*, *code reviews*, etc.
