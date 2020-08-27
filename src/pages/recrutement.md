@@ -64,6 +64,6 @@ Les offres actuellement ouvertes sont les suivantes :
 | Dev Node.js full-stack  | <a href="/offers/developpeur-node-js-full-stack/" class="button">Voir l'offre</a>  |
 | Dev Node.js junior | <a href="/offers/developpeur-node-js-junior/" class="button">Voir l'offre</a>  |
 | Key account manager | <a href="https://careers.flatchr.io/vacancy/7brjv9mz0bpr5mng-senior-business-development-manager-cdi?btn_color=004e92" class="button">Voir l'offre</a> |
-| Assistant(e) direction / Office Manager | <a href="https://careers.flatchr.io/vacancy/zndrr9bv129yqqye-assistante-direction-office-manager?btn_color=004e92" class="button">Voir l'offre</a> |
+| Business developer | <a href="https://careers.flatchr.io/vacancy/jaonxpvrlappg4qz-business-developer" class="button">Voir l'offre</a> |
 
 
