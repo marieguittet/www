@@ -13,7 +13,7 @@ ouverte d'assurance : nous ouvrons trois postes de développeuse ou développeur
 ## L’équipe
 
 Nous sommes actuellement 8 personnes dans notre open-space parisien : Amine, Arnaud, Isabelle, 
-Léa, Marie, Nolwenn, Sylvestre et Vincent. Nos bureaux sont idéalement situés dans le Sentier, 
+Léa, Andréa, Nolwenn, Sylvestre et Vincent. Nos bureaux sont idéalement situés dans le Sentier, 
 mais nous travaillons ponctuellement d’un peu partout. Si nous communiquons principalement en 
 français, il nous arrive aussi de manier l’anglais lorsque nous collaborons avec des clients ou 
 fournisseurs étrangers.
